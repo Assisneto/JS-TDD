@@ -1,4 +1,4 @@
 function a(params) {
   return params;
 }
-a(2)
+a(2);
